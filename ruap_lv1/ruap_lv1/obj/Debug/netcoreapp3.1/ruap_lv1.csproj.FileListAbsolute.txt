@@ -1,0 +1,13 @@
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\bin\Debug\netcoreapp3.1\ruap_lv1.exe
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\bin\Debug\netcoreapp3.1\ruap_lv1.deps.json
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\bin\Debug\netcoreapp3.1\ruap_lv1.runtimeconfig.json
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\bin\Debug\netcoreapp3.1\ruap_lv1.runtimeconfig.dev.json
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\bin\Debug\netcoreapp3.1\ruap_lv1.dll
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\bin\Debug\netcoreapp3.1\ruap_lv1.pdb
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\obj\Debug\netcoreapp3.1\ruap_lv1.csprojAssemblyReference.cache
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\obj\Debug\netcoreapp3.1\ruap_lv1.AssemblyInfoInputs.cache
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\obj\Debug\netcoreapp3.1\ruap_lv1.AssemblyInfo.cs
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\obj\Debug\netcoreapp3.1\ruap_lv1.csproj.CoreCompileInputs.cache
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\obj\Debug\netcoreapp3.1\ruap_lv1.dll
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\obj\Debug\netcoreapp3.1\ruap_lv1.pdb
+D:\Student\RUAP PN\RUAP\ruap_lv1\ruap_lv1\obj\Debug\netcoreapp3.1\ruap_lv1.genruntimeconfig.cache
